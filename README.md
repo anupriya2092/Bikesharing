@@ -49,7 +49,7 @@ us to create and represent this data systematically in the form of various graph
 	Based on the above graph the top riding hours in the month of August in the NYC is from 5pm to 7pm. Its the most active time of the day when all the riders prefer to rent a 
 	bike. Also we can see that 2am to 5am is the least active riding times. This can make this time favourable for a maintenance as during this time very fewer bikes will be needed.
 	
-7. ![bike_repair]](./Resources/bike_repair.png)
+7. ![bike_repair](./Resources/bike_repair.png)
 
 	The above treemap shows how often a bike is used. With this we can determine the bike id that are most frequently used and hence needs the most maintenance. For example
 	bike id 38124 has been used 479 times which is the highest as compared to other bikes, so definitely it will need the most maintenance and repair. Repairing the bikes is a
@@ -63,9 +63,13 @@ us to create and represent this data systematically in the form of various graph
 
 3. The bikes with maximum tripduration and those which are most frequently used needs to be repaired and provide extra maintenance keeping in mind the safety of the riders.
 
+
+
 4. ![birthyear_number_of_records](./Resources/birthyear_number_of_records.png) 
 
 	The graph above shows that mid-aged people in the city ride the maximum number of bikes. It shows the distribution of the population riding the bikes based on their age.
+	
+	
 	
 5. ![popular_start_stations](./Resources/popular_start_stations.png) 
 
